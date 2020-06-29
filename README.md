@@ -1,0 +1,2 @@
+# ONLINE-OUTPASS-MANAGEMENT-SYSTEM-FOR-UNIVERSITYS
+Out Pass module is designed to keep a check on all the outgoing students, staff or other employees of the hostel. This module automates the security system at the gates of the school. This module safely secures all the information and keeps a record of all the relevant details like, the name of the student/employee, purpose for going out of the school, the name of the person who permitted the child to leave, time and date when the out pass was issued
