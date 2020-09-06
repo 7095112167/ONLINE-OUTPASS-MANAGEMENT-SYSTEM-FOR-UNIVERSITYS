@@ -1,0 +1,2 @@
+Login Details for admin : admin/12345
+Login Details for user: 171801120002@cutmap.ac.in/12345
